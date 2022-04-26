@@ -1,0 +1,58 @@
+.confirm__title {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+table {
+  margin: auto;
+  width: 50%;
+}
+
+th {
+  text-align: left;
+  vertical-align: baseline;
+}
+
+.confirm__table__header__opinion {
+  vertical-align: middle;
+}
+
+td {
+  padding: 10px;
+}
+
+input {
+  border: none;
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 16px;
+}
+
+.confirm__submit__btn {
+  padding: 10px 50px;
+  border-radius: 5px;
+  background-color: black;
+  border: none;
+  color: white;
+  display: block;
+  margin: auto;
+  margin-bottom:5px;
+}
+
+.confirm__return__btn{
+  background-color: white;
+  border: none;
+  display: block;
+  margin: auto;
+  text-decoration: underline;
+}
+
+.confirm__gender__man {
+  padding-left: 5px;
+}
+.confirm__gender__woman {
+  padding-left: 5px;
+}

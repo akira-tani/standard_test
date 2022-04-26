@@ -1,0 +1,98 @@
+/* .contact {
+  width: 60%;
+} */
+
+.contact__title {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 10px;;
+  margin-bottom: 30px;;
+}
+
+table {
+  margin: auto;
+  width: 50%;
+}
+
+th {
+  text-align: left;
+
+}
+
+.contact__table__header__opinion {
+  vertical-align: middle;
+}
+
+td{
+  padding: 10px;
+}
+
+td p {
+  color:rgb(198, 198, 198);
+  padding-left: 10px;
+}
+
+input {
+  border: 1px solid rgb(198, 198, 198);
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 16px;
+}
+
+textarea {
+  border: 1px solid rgb(198, 198, 198);
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 16px;
+}
+
+.contact__table__required{
+  color: red;
+  margin-left:2px;
+}
+
+.contact__table__name {
+  display: flex;
+}
+
+.contact__table__lastname {
+  margin-right: 20px;
+  flex-basis: 50%;
+}
+.contact__table__firstname {
+  flex-basis: 50%;
+}
+.contact__table__gender__man {
+  vertical-align: baseline;
+  margin-right: 15px;
+  width: auto;
+  transform: scale(1.5);
+}
+.contact__table__gender__woman {
+  vertical-align: baseline;
+  margin-left: 30px;
+  margin-right: 15px;
+  width: auto;
+  transform: scale(1.5);
+}
+
+.contact__submit {
+  text-align: center;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 50px;
+  border-radius: 5px;
+  background-color: black;
+  border: none;
+  color: white;
+}
+
+span {
+  color: red;
+}

@@ -1,0 +1,109 @@
+.client__title {
+  text-align: center;
+  font-size: 20px;
+  margin: 20px;
+}
+.client__search {
+  width: 90%;
+  border: solid 1px black;
+  margin: auto;
+  margin-bottom: 30px; 
+}
+.client__search__form {
+  margin: 30px;
+}
+.client__search__name {
+  display: inline-block;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+.client__search__gender {
+  display: inline-block;
+}
+.client__search__date {
+  margin-bottom: 20px;
+}
+.client__search__email {
+  margin-bottom: 20px;
+}
+.client__search__name__box {
+  margin-left: 78px;
+  height: 24px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid rgb(198, 198, 198);
+}
+.client__search__date__box__start {
+  margin-right: 15px;
+  margin-left: 78px;
+  height: 24px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid rgb(198, 198, 198);
+}
+.client__search__date__box__end {
+  margin-left: 15px;
+  height: 24px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid rgb(198, 198, 198);
+}
+.client__search__email__box {
+  margin-left: 20px;
+  height: 24px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid rgb(198, 198, 198);
+}
+.client__search__gender__radio {
+  margin-left: 20px;
+  transform: scale(1.5);
+  margin-right: 10px;
+  vertical-align: baseline;
+}
+.search__submit__btn {
+  padding: 10px 50px;
+  border-radius: 5px;
+  background-color: black;
+  border: none;
+  color: white;
+  display: block;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+.search__reset__btn {
+  background-color: white;
+  border: none;
+  display: block;
+  margin: auto;
+  text-decoration: underline;
+}
+.client__table {
+  width: 90%;
+  margin: auto;
+}
+table {
+  width: 100%;
+}
+th {
+  padding: 10px 20px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+td {
+  padding: 10px 20px;
+}
+.button-delete {
+  padding: 5px 15px;
+  border-radius: 5px;
+  background-color: black;
+  border: none;
+  color: white;
+  display: block;
+  margin: auto;
+}
+svg.w-5.h-5 {
+  width: 30px;
+  height: 30px;
+}

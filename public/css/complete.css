@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  padding: 300px;
+}
+
+p{
+  margin-bottom: 40px;  
+}
+
+button {
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: black;
+  border: none;
+  color: white;
+  display: block;
+  margin: auto;
+  margin-bottom:5px;
+}
